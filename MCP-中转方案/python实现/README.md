@@ -28,8 +28,8 @@ unsecured local HTTP endpoint.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourname/sse-proxy-server.git
-cd sse-proxy-server
+git clone https://github.com/ChangeYang233/MCP-Basic-Toolkit.git
+cd MCP-Basic-Toolkit/MCP-中转方案/python实现
 ````
 
 Install dependencies:
